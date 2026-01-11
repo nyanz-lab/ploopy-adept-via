@@ -6,6 +6,10 @@ Adept Trackball Custom is a trackball based on the Adept Trackball (Ploopy), run
 This repository provides the source code for the firmware (keymap) used in Adept Trackball Custom,  
 as well as usage information for the device.
 
+## 🛒 Available on BOOTH
+This trackball is available for purchase on BOOTH.
+https://nyanz-lab.booth.pm/items/7856144
+
 ## About the Keymap
 
 Adept Trackball Custom uses QMK/VIA to define its own keymap.  
