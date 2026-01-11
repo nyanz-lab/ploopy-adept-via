@@ -1,8 +1,8 @@
 # Adept Trackball Custom – QMK/VIA Firmware
 
-Adept Trackball Custom は、既存の Adept Trackball（Ploopy）向けに
-キーマップや設定を調整した QMK / VIA ファームウェアを提供するリポジトリです。
+Adept Trackball Custom は、Adept Trackball（Ploopy）をベースに、独自にカスタマイズしたQMK/VIA ファームウェアを使用するトラックボールです。
+このリポジトリでは、Adept Trackball Custom で使用しているファームウェア（キーマップ）のソースコードを公開しています。
+また、Adept Trackball Custom の使用方法についても説明します。
 
-※ ハードウェア（筐体・PCB）は本家 Ploopy のものをそのまま使用します。
-　本リポジトリではハードウェアの変更は行っていません。
+
 
